@@ -220,3 +220,15 @@ while (hotCount > HOT_LIMIT && sinking.length) {
 ---
 
 *（本项目本地运行，Node + SQLite，记忆库不上云。文中所有数字都是自己实测的，包括错的那几次。）*
+
+---
+
+**后记 · 如果你也想试**
+
+代码和设计文档都在这里：`https://github.com/Mr-Jino/memory-tide`
+
+一条命令就能给你的笔记库退一次潮——它会扫出那些很久没被打开、也没被别的笔记链接过的东西，写成一封信问你还留不留：
+
+```bash
+node scripts/tide.mjs scan "你的笔记库"
+```
