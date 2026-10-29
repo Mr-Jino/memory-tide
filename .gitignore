@@ -1,0 +1,4 @@
+# 退潮状态是用户数据，不进仓库
+**/.tide/
+node_modules/
+.DS_Store
