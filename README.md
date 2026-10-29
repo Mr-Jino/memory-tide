@@ -24,7 +24,7 @@
 ## 30 秒试一下
 
 ```bash
-git clone https://github.com/luoluo-121/memory-tide.git
+git clone https://github.com/Mr-Jino/memory-tide.git
 cd memory-tide
 node scripts/tide.mjs scan examples/demo-vault
 ```
