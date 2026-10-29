@@ -1,0 +1,4 @@
+# 统一仓库内换行，避免 Windows 提交把整个仓库标成改动
+* text=auto
+*.mjs text eol=lf
+*.md text eol=lf
